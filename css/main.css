@@ -1,0 +1,23 @@
+/*css stling*/
+html,body{
+	font-family:verdana;
+	font-size:20px;
+	
+}
+
+
+#messages{
+	width:500px;
+	height:300px;
+	padding:5px;
+	margin:10px;
+	border:2px solid #ccc;
+	overflow:auto;
+
+}
+
+input{
+	padding:10px;
+	
+
+}
